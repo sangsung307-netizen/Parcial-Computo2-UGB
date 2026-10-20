@@ -1,0 +1,11 @@
+ID_Producto,Nombre_Producto,Categoria,Precio,Cantidad,Sucursal
+101,Laptop Acer Predator,Electrónica,1200.50,15,San Miguel
+102,Teclado Mecánico,Accesorios,45.00,30,San Salvador
+103,Monitor 24",Electrónica,150.00,20,Santa Ana
+104,Mouse Inalámbrico,Accesorios,25.00,50,La Libertad
+105,Silla Gamer,Mobiliario,180.00,10,Sonsonate
+106,Auriculares JBL,Accesorios,60.00,25,San Miguel
+107,Escritorio,Mobiliario,120.00,12,San Salvador
+108,Impresora,Electrónica,200.00,8,Santa Ana
+109,Webcam,Accesorios,35.00,40,La Libertad
+110,Router Wi-Fi,Redes,40.00,22,Sonsonate
